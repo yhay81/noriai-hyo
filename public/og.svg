@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#f7f5ed"/>
+      <stop offset="1" stop-color="#e7eee8"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#16382f" flood-opacity=".16"/>
+    </filter>
+    <pattern id="stripe" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0v72" fill="none" stroke="#16382f" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#stripe)"/>
+  <g transform="translate(70 54)">
+    <g transform="translate(0 10)">
+      <rect width="58" height="47" rx="8" fill="#1c6b55" transform="rotate(-2 29 24)"/>
+      <circle cx="15" cy="15" r="5" fill="#fff"/>
+      <circle cx="42" cy="15" r="5" fill="#fff"/>
+      <circle cx="15" cy="34" r="5" fill="#fff"/>
+      <circle cx="42" cy="34" r="5" fill="#fff"/>
+      <text x="76" y="35" fill="#17322b" font-family="sans-serif" font-size="28" font-weight="800">のりあい表</text>
+    </g>
+    <g transform="translate(0 101)" filter="url(#shadow)">
+      <rect width="690" height="412" rx="28" fill="#1c6b55"/>
+      <rect width="690" height="70" rx="28" fill="#124b3c"/>
+      <rect y="40" width="690" height="30" fill="#124b3c"/>
+      <rect x="22" y="17" width="82" height="36" rx="9" fill="#c9e86c"/>
+      <text x="63" y="41" text-anchor="middle" fill="#124b3c" font-family="sans-serif" font-size="14" font-weight="900">8/9 SUN</text>
+      <text x="127" y="32" fill="#ffffff" fill-opacity=".62" font-family="sans-serif" font-size="11" font-weight="700">練習試合</text>
+      <text x="127" y="51" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="800">河川敷グラウンド</text>
+      <rect x="604" y="18" width="64" height="35" rx="9" fill="#ffffff" fill-opacity=".12" stroke="#ffffff" stroke-opacity=".28"/>
+      <text x="636" y="41" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="800">7 / 9</text>
+      <path d="M345 70v238M0 189h690" stroke="#ffffff" stroke-opacity=".18"/>
+      <circle cx="345" cy="189" r="68" fill="none" stroke="#ffffff" stroke-opacity=".22"/>
+      <circle cx="345" cy="189" r="4" fill="#ffffff" fill-opacity=".42"/>
+      <g font-family="sans-serif" font-size="12" font-weight="900" text-anchor="middle">
+        <g transform="translate(90 156)">
+          <circle r="27" fill="#fff"/>
+          <text y="4" fill="#124b3c">ゆう</text>
+        </g>
+        <g transform="translate(218 115)">
+          <circle r="27" fill="#fff"/>
+          <text y="4" fill="#124b3c">れん</text>
+        </g>
+        <g transform="translate(220 251)">
+          <circle r="27" fill="#fff"/>
+          <text y="4" fill="#124b3c">あお</text>
+        </g>
+        <g transform="translate(386 188)">
+          <circle r="27" fill="#fff"/>
+          <text y="4" fill="#124b3c">かい</text>
+        </g>
+        <g transform="translate(526 117)">
+          <circle r="27" fill="#fff"/>
+          <text y="4" fill="#124b3c">そら</text>
+        </g>
+        <g transform="translate(529 252)">
+          <circle r="27" fill="none" stroke="#fff" stroke-opacity=".62" stroke-dasharray="4 4"/>
+          <text y="5" fill="#fff">?</text>
+        </g>
+        <g transform="translate(624 188)">
+          <circle r="27" fill="none" stroke="#fff" stroke-opacity=".62" stroke-dasharray="4 4"/>
+          <text y="5" fill="#fff">?</text>
+        </g>
+      </g>
+      <g transform="translate(0 308)">
+        <path d="M0 0h690v76a28 28 0 0 1-28 28H28A28 28 0 0 1 0 76z" fill="#124b3c"/>
+        <path d="M172 0v104M345 0v104M518 0v104" stroke="#ffffff" stroke-opacity=".14"/>
+        <g font-family="sans-serif">
+          <circle cx="22" cy="35" r="5" fill="#c9e86c"/>
+          <text x="38" y="30" fill="#fff" font-size="14" font-weight="800">ゆう</text>
+          <text x="38" y="48" fill="#fff" fill-opacity=".58" font-size="11">参加</text>
+          <rect x="113" y="25" width="42" height="28" rx="7" fill="#ffffff" fill-opacity=".12"/>
+          <text x="134" y="43" text-anchor="middle" fill="#fff" font-size="11" font-weight="800">3席</text>
+          <circle cx="194" cy="35" r="5" fill="#c9e86c"/>
+          <text x="210" y="30" fill="#fff" font-size="14" font-weight="800">れん</text>
+          <text x="210" y="48" fill="#fff" fill-opacity=".58" font-size="11">参加</text>
+          <rect x="286" y="25" width="42" height="28" rx="7" fill="#ffffff" fill-opacity=".12"/>
+          <text x="307" y="43" text-anchor="middle" fill="#fff" font-size="11" font-weight="800">2人</text>
+          <circle cx="368" cy="35" r="5" fill="#f4d46a"/>
+          <text x="384" y="30" fill="#fff" font-size="14" font-weight="800">あお</text>
+          <text x="384" y="48" fill="#fff" fill-opacity=".58" font-size="11">未定</text>
+          <circle cx="541" cy="35" r="5" fill="#ef9b62"/>
+          <text x="557" y="30" fill="#fff" font-size="14" font-weight="800">みな</text>
+          <text x="557" y="48" fill="#fff" fill-opacity=".58" font-size="11">欠席</text>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(728 146)" filter="url(#shadow)">
+      <rect width="332" height="295" rx="23" fill="#ffffff"/>
+      <path d="M0 23A23 23 0 0 1 23 0h286a23 23 0 0 1 23 23v52H0z" fill="#17322b"/>
+      <rect y="51" width="332" height="24" fill="#17322b"/>
+      <rect x="22" y="24" width="17" height="12" rx="3" fill="#c9e86c"/>
+      <text x="53" y="37" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="800">送迎バランス</text>
+      <g transform="translate(24 106)" font-family="sans-serif">
+        <text y="0" fill="#63736d" font-size="13" font-weight="700">空いている席</text>
+        <text x="260" y="4" fill="#17322b" font-size="32" font-weight="900">3</text>
+        <g transform="translate(0 24)">
+          <rect width="35" height="29" rx="7" fill="#1c6b55"/>
+          <rect x="44" width="35" height="29" rx="7" fill="#1c6b55"/>
+          <rect x="88" width="35" height="29" rx="7" fill="#1c6b55"/>
+          <rect x="132" width="35" height="29" rx="7" fill="#d9e2dd"/>
+        </g>
+        <text y="89" fill="#63736d" font-size="13" font-weight="700">乗せてほしい</text>
+        <text x="260" y="93" fill="#17322b" font-size="32" font-weight="900">2</text>
+      </g>
+      <path d="M0 235h332v37a23 23 0 0 1-23 23H23A23 23 0 0 1 0 272z" fill="#dcece4"/>
+      <circle cx="29" cy="265" r="12" fill="#1c6b55"/>
+      <path d="m23 265 4 4 8-9" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.5"/>
+      <text x="51" y="270" fill="#124b3c" font-family="sans-serif" font-size="15" font-weight="800">あと1席あります</text>
+    </g>
+    <g transform="translate(760 472)">
+      <text fill="#63736d" font-family="sans-serif" font-size="16" font-weight="700">出欠と席数を、一枚で。</text>
+      <rect y="25" width="270" height="48" rx="24" fill="#1c6b55"/>
+      <text x="135" y="55" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="16" font-weight="800">登録なし・21日で削除</text>
+    </g>
+  </g>
+</svg>

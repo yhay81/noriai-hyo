@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /e/
+Disallow: /manage/
+Disallow: /api/
+
+Sitemap: https://noriai-hyo.yhay81.com/sitemap.xml
